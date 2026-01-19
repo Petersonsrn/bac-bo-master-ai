@@ -50,4 +50,4 @@ O "BaccaratBrain" pondera dinamicamente entre:
 - **Threading:** Processamento paralelo sem travamentos.
 
 ---
-*Desenvolvido por PetersonSRN & Antigravity AI*
+*Desenvolvido por Petersonsrn <3
